@@ -656,6 +656,14 @@ ____INNER PAGE BANNER____*/
 
 /*____GENERAL____*/
 
+
+html, body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	overflow-x: hidden;
+}
+
 body {
 	background-color: #FFF;
 	font-family: 'Rubik', sans-serif;
